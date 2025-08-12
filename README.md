@@ -18,3 +18,9 @@ A Natural Language Processing (NLP) based Medical Chatbot designed to provide re
 
 ## 📁 Project Structure
 
+MedicalChatBot/
+├── chatbot.py # Main logic and interaction loop
+├── intents.json # Medical intents and responses
+├── utils.py # Helper functions for text preprocessing
+├── gui.py # (Optional) GUI integration
+└── README.md # Project documentation
